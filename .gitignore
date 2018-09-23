@@ -1,0 +1,5 @@
+env
+__pycache__
+real_example.txt
+whatsapp_parser.py
+.ipynb_checkpoints
